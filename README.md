@@ -17,8 +17,8 @@
 - 🎓 **B.Tech Computer Science** @ Sai University, Chennai | CGPA: **8.33**
 - 💼 **Data Science Intern** @ Acemegrade — EDA, ML modelling, Scikit-learn
 - 🏆 **Microsoft Certified**: Fabric Data Engineer Associate **DP-700** & Analytics Engineer **DP-600**
-- 🤖 Built **production RAG systems** over 50,000+ clinical documents with LangGraph + Pinecone
-- 📊 Architected a **Medallion data platform** on Microsoft Fabric ingesting 2M+ retail transactions/day
+- 🤖 Built **production RAG systems** over 50+ clinical documents with LangGraph + Pinecone
+- 📊 Architected a **Medallion data platform** on Microsoft Fabric ingesting 200+ retail transactions/day
 - 🚀 Deployed a **live Medical Chatbot** powered by Gemini 2.5 Flash + LangChain + Pinecone
 - 📫 Reach me at: **ashwin10e.vhs@gmail.com**
 - 🌍 Based in **Chennai, India**
